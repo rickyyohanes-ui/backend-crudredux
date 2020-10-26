@@ -1,0 +1,88 @@
+{
+    "users" : [
+        {
+          "id": 1,
+          "nama": "salomo",
+          "alamat": "pekalongan",
+          "umur": 24,
+          "nohp": "087876673454"
+        },
+        {
+          "id": 2,
+          "nama": "Leta",
+          "alamat": "bengkayang",
+          "umur": 24,
+          "nohp": "087876673414"
+        },
+        {
+          "id": 3,
+          "nama": "sony",
+          "alamat": "tj duren",
+          "umur": 24,
+          "nohp": "087876673416"
+        },
+        {
+          "id": 4,
+          "nama": "asd",
+          "alamat": "asd",
+          "umur": 24,
+          "nohp": "087876673454"
+        },
+        {
+          "id": 5,
+          "nama": "qwe",
+          "alamat": "qwe",
+          "umur": 24,
+          "nohp": "087876673414"
+        },
+        {
+            "id": 6,
+          "nama": "andrean",
+          "alamat": "tj duren",
+          "umur": 24,
+          "nohp": "087876673416"
+        },
+        {
+          "id": 7,
+          "nama": "Ricky123",
+          "alamat": "madiun",
+          "umur": 24,
+          "nohp": "087876673454"
+        },
+        {
+          "id": 8,
+          "nama": "Leta123",
+          "alamat": "ponti",
+          "umur": 24,
+          "nohp": "087876673414"
+        },
+        {
+          "id": 9,
+          "nama": "sony123",
+          "alamat": "tj",
+          "umur": 24,
+          "nohp": "087876673416"
+        },
+        {
+          "id": 10,
+          "nama": "rita",
+          "alamat": "yudi",
+          "umur": 24,
+          "nohp": "087876673454"
+        },
+        {
+          "id": 11,
+          "nama": "yudi",
+          "alamat": "rita",
+          "umur": 24,
+          "nohp": "087876673414"
+        },
+        {
+          "id": 12,
+          "nama": "cek sound",
+          "alamat": "kapal laut",
+          "umur": 24,
+          "nohp": "087876673416"
+        }
+      ]
+}
